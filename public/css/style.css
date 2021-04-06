@@ -1,0 +1,44 @@
+body{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 23px;
+  
+}
+#wrapper{
+    width: 960px;
+    margin: 0px auto;
+}
+#header,#footer{
+    background: #029ef3;
+    height: 40px;
+    padding: 10px 0px;
+}
+ul#main_menu{
+    text-align: center;
+}
+ul#main_menu li{
+    display:inline-block;
+}
+ul#main_menu li a{
+    padding: 8px 15px;
+    color:#fff;
+    display: block;
+}
+#content{
+    min-height: 300px;
+    padding: 20px 0px;
+}
+.post_title{
+    font-size: 14px;
+    font-weight: bold;
+}
+ul.list_post li{
+    padding: 10px 0px;
+    margin-bottom: 10px;
+    border-bottom: 1px dashed #b5abab;
+
+}
+#footer{
+    color:#fff;
+    text-align: center;
+}
